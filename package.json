@@ -1,0 +1,24 @@
+{
+  "name": "pipelines",
+  "version": "1.0.0",
+  "description": "Testing_Pipelines ",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brayahn/devops_pipeline.git"
+  },
+  "keywords": [
+    "pipelines",
+    "initialization"
+  ],
+  "author": "Brian Maina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brayahn/devops_pipeline/issues"
+  },
+  "homepage": "https://github.com/Brayahn/devops_pipeline#readme"
+}
